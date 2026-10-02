@@ -60,15 +60,15 @@ Alternatively:
 
 === SERVER STATUS ===
 
-Hostname: [HOSTNAME]
-Uptime: [UPTIME]
+- Hostname: [HOSTNAME]
+- Uptime: [UPTIME]
 
-CPU usage: [XX]%
-Memory usage: [XX]%
-Disk usage: [XX]%
+- CPU usage: [XX]%
+- Memory usage: [XX]%
+- Disk usage: [XX]%
 
-[SERVICE]: OK
-Network connectivity: OK
+- [SERVICE]: OK
+- Network connectivity: OK
 
 ## Files
 
